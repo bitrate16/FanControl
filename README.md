@@ -5,6 +5,12 @@ This laptop has fan control feature using the [lenovo driver (Energy Management)
 
 Hovewer SpeedFan failed to work correct with this laptop in windows 10, so here is a small utility build from reverse-engineering of the driver
 
+Prerequirements
+---------------
+* [lenovo driver (Energy Management)](http://driverdl.lenovo.com.cn/lenovo/DriverFilesUploadFloder/36484/WIN8_EM.exe)
+* [Binary from release](https://github.com/bitrate16/FanControl/releases)
+* Additional: Disable autostart for Energy Management if you don't need it
+
 Disclaimer
 ----------
 
